@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(191, 255, 0);
+}
+#formulario{
+    background-color: bisque;
+}
+#productos{
+    background-color: rgb(241, 107, 190);
+}
+#historia{
+    background-color: rgb(100, 255, 43);
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+.container {
+    .container {
+        text-align: center;
+        margin-top: 50px;
+    }
+    margin-top: 50px;
+}
+img{
+    width: 200px;
+}
+#contenedor{
+    display: flex;
+    justify-content: space-around;
+}
+.contah1 {        
+    text-align: center;
+}
